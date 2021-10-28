@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373702746076",
+    "project_id": "firbase-videos-app",
+    "storage_bucket": "firbase-videos-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373702746076:android:1c77bc164eb8a2748ef919",
+        "android_client_info": {
+          "package_name": "com.example.firbasevideosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373702746076-7em7mpf4360ndds0ac454ishqpokaems.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSDKnmFAGc1K7lB18An5B87jHvJerYkco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373702746076-7em7mpf4360ndds0ac454ishqpokaems.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
